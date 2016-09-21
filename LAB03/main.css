@@ -1,0 +1,49 @@
+#stage
+{
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+#background
+{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url(background.jpg)
+}
+
+
+
+#bug
+{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    background-image: url(flyGuy40x40.png);
+}
+
+#lazer
+{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 240px;
+    left: 145px;
+    background-image: url(bugnotfound.png);
+}
+
+#lazer2
+{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 240px;
+    left: 145px;
+    background-image: url(bugfound.png);
+}
+
